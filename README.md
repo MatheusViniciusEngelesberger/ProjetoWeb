@@ -11,14 +11,12 @@
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#Índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Descrição do Projeto](#Descrição-do-Projeto)
+* [Acesso ao Projeto](#Acesso-ao-projeto)
+* [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#Autores)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
-
-<h2> Descrição do Projeto</h2>
+* 
+# Descrição do Projeto 
 <p>Projeto em desenvolvimento para a disciplina Programação Web Front-End do curso de Engenharia de Software. O <nome do projeto> é um site sobre a ODS Fome Zero e Agricultura Sustentável.</p>
 
 # 📁 Acesso ao projeto
@@ -34,7 +32,7 @@
   <li>Clique em Selecionar Pasta, e por fim clique em Yes, I trust the authors.</li>
 </ul>
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Tecnologias utilizadas
 
 - ``HTLM 5``
 - ``CSS3``
