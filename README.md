@@ -2,6 +2,7 @@
 
 ![fome-zero-e-agricultura-sustentavel-metas-ods](https://github.com/user-attachments/assets/7ec1a8ea-7be8-4c2f-92e4-819d106dcffd)
 
+
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge">
 </p>
@@ -9,15 +10,15 @@
 # Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
 * [Índice](#Índice)
 * [Descrição do Projeto](#Descrição-do-Projeto)
 * [Acesso ao Projeto](#Acesso-ao-projeto)
+* [Abrir e rodar o projeto](#Abrir-e-rodar-o-projeto)
 * [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#Autores)
-* 
+  
 # Descrição do Projeto 
-<p>Projeto em desenvolvimento para a disciplina Programação Web Front-End do curso de Engenharia de Software. O <nome do projeto> é um site sobre a ODS Fome Zero e Agricultura Sustentável.</p>
+<p>Projeto em desenvolvimento para a disciplina Programação Web Front-End do curso de Engenharia de Software. O Semeando Futuro é um site sobre a ODS Fome Zero e Agricultura Sustentável.</p>
 
 # 📁 Acesso ao projeto
 
