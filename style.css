@@ -94,11 +94,13 @@ body{
     color: bisque;
 }
 
+
 .conteudo-principal-escrito-subtitulo{
     font-family: "Oswald", serif;
     font-weight: 400;
     font-size: 24px;
     color: bisque;
+    text-align: center;
 }
 
 .conteudo-secundario-style1{
@@ -300,6 +302,12 @@ body{
     color: bisque;
     display: flex;
     margin-bottom: 15px;
+    font-size: 26px;
+
+}.form-group-pesquisar{ 
+    font-family: "Oswald", serif;
+    color: bisque;
+    margin-bottom: 15px;
     font-size: 24px;
 }
 .form-group label { 
@@ -315,6 +323,7 @@ body{
 .container-botao{
     display: flex;  
     align-items: center; 
+    padding: 5px;
     justify-content: space-around;
 }
 button {
@@ -335,4 +344,7 @@ button {
 .paddingDoSigninpaddingDoSignin{
     
     margin-bottom: 400px;
+}
+.tamanho-placeholder{
+    font-size: 20px;
 }

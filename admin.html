@@ -23,8 +23,8 @@
     <main class="conteudo">
         <section class="conteudo-principal">
             <div class="form-container">
-                <h2 class="conteudo-principal-escrito-titulo">Cadastro</h2> 
-                    <form> 
+                <h2 class="conteudo-principal-escrito-titulo">Cadastrar usuario</h2> 
+                    <form id="formulario"> 
                     <div class="form-group"> 
                         <label for="nome">Nome:</label> 
                         <input type="text" id="nome" name="nome"> 
@@ -33,24 +33,22 @@
                         <label for="email">Email:</label> 
                         <input type="email" id="email" name="email"> 
                     </div> 
-                    <div class="form-group"> 
-                        <label for="password">Senha:</label> 
-                        <input type="password" id="password" name="password"> 
-                    </div> 
-                    <div class="form-group"> 
-                        <label for="telefone">Telefone:</label> 
-                        <input type="tel" id="telefone" name="telefone"> 
-                    </div> 
-                    <div class="form-group"> 
-                        <label for="endereco">Endereco:</label> 
-                        <input type="text" id="endereco" name="endereco"> 
-                    </div> 
                     <div class="container-botao"> 
-                        <a href="signin.html" class="botao-estilizado"> 
-                            Cadastrar
-                        </a> 
-                        <button type="reset">Limpar</button> </div>
-                </form> 
+                        <button type="submit">Cadastrar</button>
+                        <button type="reset">Limpar</button>
+                    </div>
+                    </form> 
+                    
+            </div>
+        </section>
+        <section>
+            <div class="conteudo-principal-escrito-subtitulo">
+                <h2>Lista de Usuários</h2>
+                <div >
+                    <input class="tamanho-placeholder" type="text" id="pesquisa" placeholder="Pesquisar usuário..." onkeyup="pesquisarUsuario()">
+                    <button onclick="excluirTodos()">Excluir Todos</button>
+                </div>
+                <ul id="listaUsuarios"></ul>
             </div>
         </section>
     </main>
@@ -64,5 +62,6 @@
             <img class="rodape-imagem" src="imagens/ODS2.svg" alt="Imagem da ODS 2" width="150" height="200">
         </figure>
     </footer>
+    <script src="script.js"></script>
 </body>
 </html>
